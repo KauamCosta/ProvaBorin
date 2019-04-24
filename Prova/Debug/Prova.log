@@ -1,0 +1,4 @@
+﻿  main.c
+f:\desktop\provaborin\prova\main.c(23): warning C4101: 'processo1': variável local não referenciada
+f:\desktop\provaborin\prova\main.c(24): warning C4101: 'processo2': variável local não referenciada
+  Prova.vcxproj -> F:\Desktop\PROVABORIN\Prova\Debug\Prova.exe
